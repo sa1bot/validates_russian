@@ -16,6 +16,7 @@ describe BikFormatValidator do
       044652323
       044525202
       049205770
+      044525974
     }
 
     valid_biks.each do |bik|

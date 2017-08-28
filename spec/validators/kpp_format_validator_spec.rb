@@ -11,6 +11,7 @@ describe KppFormatValidator do
        771501001
        772501001
        525601001
+       773601001
     }
 
     valid_kpps.each do |kpp|
